@@ -1,1 +1,1 @@
-# [Counter](https://fishenzone.github.io/counter/)
+# [Counter](https://fishenzone-freecodecamp.github.io/counter/)
